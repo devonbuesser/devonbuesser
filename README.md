@@ -1,34 +1,21 @@
 <div align="center">
-  <!-- 100% Local Dark-Mode Header Banner -->
-  <img src="./header.svg" width="100%" alt="devOn Header" />
 
-  <br /><br />
+<img src="./header.svg" width="100%" alt="devOn Header" />
 
-  <a href="https://devonbuesser.pages.dev">
-    <img src="https://img.shields.io/badge/🌐_Website-devonbuesser.pages.dev-161b22?style=flat&color=161b22&labelColor=0d1117" alt="Website" />
-  </a>
-  <a href="https://github.com/devonbuesser">
-    <img src="https://img.shields.io/badge/GitHub-devonbuesser-161b22?style=flat&color=161b22&labelColor=0d1117" alt="GitHub" />
-  </a>
-</div>
+<br/>
 
-<br />
+[![Website](https://img.shields.io/badge/Website-devonbuesser.pages.dev-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F6821F&labelColor=161b22)](https://devonbuesser.pages.dev)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-devonbuesser-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/devonbuesser)
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,godot,react,tailwind,tauri,vite,docker,raspberrypi,linux&theme=dark&perline=6" alt="Tech Stack" />
-  </a>
-</div>
+<br/>
 
-<br />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,cpp,godot,unity,react,nodejs,npm,vite,docker,git,github,powershell,sqlite,mysql,vscode,pycharm,linux,raspberrypi,arduino&theme=dark&perline=8" alt="Tech Stack" />
 
-<div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=devonbuesser&show_icons=true&theme=github_dark&border_radius=10" alt="GitHub Stats" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devonbuesser&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
-</div>
+<br/><br/>
 
-<br />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devonbuesser&theme=github_dark" alt="Stats" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devonbuesser&theme=github_dark" alt="Languages" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devonbuesser&theme=github_dark&utcOffset=2" alt="Active Hours" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devonbuesser/devonbuesser/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devonbuesser&theme=github_dark" alt="Profile Details" />
+
+<img src="https://raw.githubusercontent.com/devonbuesser/devonbuesser/main/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
 </div>
