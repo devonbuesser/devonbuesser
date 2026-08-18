@@ -8,38 +8,39 @@
 
 <br/>
 
-<img src="./divider.svg" />
+<img src="./divider.svg" width="100%" />
 
 <br/>
+<br/>
 
-<table border="0">
+<table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🐍%20Languages-21262d?style=flat-square&labelColor=161b22" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,cpp&theme=dark" />
+      <b>🐍 &nbsp;Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🌐%20Web%20%26%20Frontend-21262d?style=flat-square&labelColor=161b22" /><br/><br/>
+      <b>🌐 &nbsp;Web & Frontend</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nodejs,npm,vite&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🎮%20Game%20Dev-21262d?style=flat-square&labelColor=161b22" /><br/><br/>
+      <b>🎮 &nbsp;Game Dev</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🛠️%20DevOps%20%26%20Tools-21262d?style=flat-square&labelColor=161b22" /><br/><br/>
+      <b>🛠️ &nbsp;DevOps & Tools</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=docker,git,github,powershell&theme=dark" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/🗄️%20Databases-21262d?style=flat-square&labelColor=161b22" /><br/><br/>
+      <b>🗄️ &nbsp;Databases</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=sqlite,mysql&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/💻%20IDEs%20%26%20System-21262d?style=flat-square&labelColor=161b22" /><br/><br/>
+      <b>💻 &nbsp;IDEs & System</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,raspberrypi,arduino&theme=dark" />
     </td>
   </tr>
@@ -47,8 +48,9 @@
 
 <br/>
 
-<img src="./divider.svg" />
+<img src="./divider.svg" width="100%" />
 
+<br/>
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devonbuesser&theme=github_dark" alt="Stats" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devonbuesser&theme=github_dark" alt="Languages" />
@@ -57,12 +59,11 @@
 
 <br/>
 
-<img src="./divider.svg" />
+<img src="./divider.svg" width="100%" />
 
+<br/>
 <br/>
 
 <img src="https://raw.githubusercontent.com/devonbuesser/devonbuesser/main/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-<sub>Made with ❤️ in Switzerland 🇨🇭</sub>
 
 </div>
