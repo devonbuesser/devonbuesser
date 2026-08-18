@@ -8,14 +8,61 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,cpp,godot,unity,react,nodejs,npm,vite,docker,git,github,powershell,sqlite,mysql,vscode,pycharm,linux,raspberrypi,arduino&theme=dark&perline=8" alt="Tech Stack" />
+<img src="./divider.svg" width="100%" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devonbuesser&theme=github_dark" alt="Stats" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devonbuesser&theme=github_dark" alt="Languages" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devonbuesser&theme=github_dark&utcOffset=2" alt="Active Hours" />
+<table>
+  <tr>
+    <td align="center">
+      <b>🐍 &nbsp;Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,cpp&theme=dark" />
+    </td>
+    <td align="center">
+      <b>🌐 &nbsp;Web & Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,npm,vite&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🎮 &nbsp;Game Dev</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" />
+    </td>
+    <td align="center">
+      <b>🛠️ &nbsp;DevOps & Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,powershell&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🗄️ &nbsp;Databases</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=sqlite,mysql&theme=dark" />
+    </td>
+    <td align="center">
+      <b>💻 &nbsp;IDEs & System</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,raspberrypi,arduino&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="./divider.svg" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devonbuesser&theme=github_dark" alt="Stats" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devonbuesser&theme=github_dark" alt="Languages" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devonbuesser&theme=github_dark" alt="Profile Details" />
 
+<br/>
+
+<img src="./divider.svg" width="100%" />
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/devonbuesser/devonbuesser/main/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+<sub>Made with ❤️ in Switzerland 🇨🇭</sub>
 
 </div>
